@@ -1,6 +1,6 @@
 var gc = new GameCanvas();
 
-var points = textToPoints(" 2 0 2 3 新 年 快 乐 ！", 15, "Anton");
+var points = textToPoints("2023 新 年 快 乐 ！", 15, "Anton");
 
 var titleParticles = [];
 var fireworks = [];
